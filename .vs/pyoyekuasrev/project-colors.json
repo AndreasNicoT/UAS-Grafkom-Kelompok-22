@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5f34b793-8319-41cf-ac16-9f3da419e47d": {
+      "ProjectGuid": "5f34b793-8319-41cf-ac16-9f3da419e47d",
+      "DisplayName": "pyoyekuasrev",
+      "ColorIndex": 0
+    },
+    "1c55ca32-89cd-4f1a-be6a-bf9bdcc97e61": {
+      "ProjectGuid": "1c55ca32-89cd-4f1a-be6a-bf9bdcc97e61",
+      "DisplayName": "Common",
+      "ColorIndex": 1
+    },
+    "579e5237-8aae-46df-872f-34326beea788": {
+      "ProjectGuid": "579e5237-8aae-46df-872f-34326beea788",
+      "DisplayName": "Common",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
