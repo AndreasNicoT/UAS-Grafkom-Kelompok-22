@@ -1,0 +1,19 @@
+E:\Asisten Grafkom\LearnOpenTK-master  4.0\LearnOpenTK-master\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.deps.json
+E:\Asisten Grafkom\LearnOpenTK-master  4.0\LearnOpenTK-master\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+E:\Asisten Grafkom\LearnOpenTK-master  4.0\LearnOpenTK-master\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+E:\Asisten Grafkom\LearnOpenTK-master  4.0\LearnOpenTK-master\Common\obj\Debug\netcoreapp3.1\Common.csprojAssemblyReference.cache
+E:\Asisten Grafkom\LearnOpenTK-master  4.0\LearnOpenTK-master\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+E:\Asisten Grafkom\LearnOpenTK-master  4.0\LearnOpenTK-master\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+E:\Asisten Grafkom\LearnOpenTK-master  4.0\LearnOpenTK-master\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+E:\Asisten Grafkom\LearnOpenTK-master  4.0\LearnOpenTK-master\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+E:\Asisten Grafkom\LearnOpenTK-master  4.0\LearnOpenTK-master\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+D:\KULIAH\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.deps.json
+D:\KULIAH\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+D:\KULIAH\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+D:\KULIAH\Common\obj\Debug\netcoreapp3.1\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\KULIAH\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+D:\KULIAH\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+D:\KULIAH\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+D:\KULIAH\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+D:\KULIAH\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+D:\KULIAH\Common\obj\Debug\netcoreapp3.1\Common.csproj.AssemblyReference.cache

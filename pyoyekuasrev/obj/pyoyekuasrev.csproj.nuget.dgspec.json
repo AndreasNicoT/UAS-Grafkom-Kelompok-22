@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\KULIAH\\UASGK\\pyoyekuasrev\\pyoyekuasrev\\pyoyekuasrev.csproj": {}
+    "D:\\KULIAH\\UASGK\\pyoyekuasrev\\UAS-Grafkom-Kelompok-22\\pyoyekuasrev\\pyoyekuasrev.csproj": {}
   },
   "projects": {
-    "D:\\KULIAH\\Common\\Common.csproj": {
+    "D:\\KULIAH\\UASGK\\pyoyekuasrev\\UAS-Grafkom-Kelompok-22\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\KULIAH\\Common\\Common.csproj",
+        "projectUniqueName": "D:\\KULIAH\\UASGK\\pyoyekuasrev\\UAS-Grafkom-Kelompok-22\\Common\\Common.csproj",
         "projectName": "LearnOpenTK.Common",
-        "projectPath": "D:\\KULIAH\\Common\\Common.csproj",
+        "projectPath": "D:\\KULIAH\\UASGK\\pyoyekuasrev\\UAS-Grafkom-Kelompok-22\\Common\\Common.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "D:\\KULIAH\\Common\\obj\\",
+        "outputPath": "D:\\KULIAH\\UASGK\\pyoyekuasrev\\UAS-Grafkom-Kelompok-22\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -72,14 +72,14 @@
         }
       }
     },
-    "D:\\KULIAH\\UASGK\\pyoyekuasrev\\pyoyekuasrev\\pyoyekuasrev.csproj": {
+    "D:\\KULIAH\\UASGK\\pyoyekuasrev\\UAS-Grafkom-Kelompok-22\\pyoyekuasrev\\pyoyekuasrev.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\KULIAH\\UASGK\\pyoyekuasrev\\pyoyekuasrev\\pyoyekuasrev.csproj",
+        "projectUniqueName": "D:\\KULIAH\\UASGK\\pyoyekuasrev\\UAS-Grafkom-Kelompok-22\\pyoyekuasrev\\pyoyekuasrev.csproj",
         "projectName": "pyoyekuasrev",
-        "projectPath": "D:\\KULIAH\\UASGK\\pyoyekuasrev\\pyoyekuasrev\\pyoyekuasrev.csproj",
+        "projectPath": "D:\\KULIAH\\UASGK\\pyoyekuasrev\\UAS-Grafkom-Kelompok-22\\pyoyekuasrev\\pyoyekuasrev.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "D:\\KULIAH\\UASGK\\pyoyekuasrev\\pyoyekuasrev\\obj\\",
+        "outputPath": "D:\\KULIAH\\UASGK\\pyoyekuasrev\\UAS-Grafkom-Kelompok-22\\pyoyekuasrev\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -100,8 +100,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\KULIAH\\Common\\Common.csproj": {
-                "projectPath": "D:\\KULIAH\\Common\\Common.csproj"
+              "D:\\KULIAH\\UASGK\\pyoyekuasrev\\UAS-Grafkom-Kelompok-22\\Common\\Common.csproj": {
+                "projectPath": "D:\\KULIAH\\UASGK\\pyoyekuasrev\\UAS-Grafkom-Kelompok-22\\Common\\Common.csproj"
               }
             }
           }
